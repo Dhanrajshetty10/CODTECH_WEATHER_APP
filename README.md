@@ -11,7 +11,7 @@ An interactive weather app built with Reactjs. Enjoy a clean and responsive desi
 
 ## Demo
 
-Check out the live demo [here](https://codtech-weather-app.vercel.app/)
+Check out the live demo [here](https://codtech-weather-app-rho.vercel.app/)
 
 ## Screenshots
 
@@ -23,7 +23,7 @@ Check out the live demo [here](https://codtech-weather-app.vercel.app/)
 1. Clone the repository : 
 
 ```bash
-  git clone https://github.com/siddhantmishra0/CODTECH_Weather_App.git
+  git clone https://github.com/Dhanrajshetty10/CODTECH_WEATHER_APP.git
 ```
 
 2. Open index.html in your browser.
