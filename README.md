@@ -15,7 +15,7 @@ Check out the live demo [here](https://codtech-weather-app.vercel.app/)
 
 ## Screenshots
 
-![Screenshot](weather_app.png)
+![Screenshot](weather_app.webp)
 
 
 ## Installation
